@@ -74,8 +74,6 @@ src/
    └─ high_score.py    # HighScoreScreen (dummy dulu)
 ```
 
-> `__init__.py` boleh kosong, hanya penanda package.
-
 ---
 
 ## 1. Membuat Button Sederhana (UI)
